@@ -24,3 +24,8 @@ function getParentIdOf($param)
     return $permission ? $permission->id : $route;
 }
  
+
+function getMe()
+{
+    
+}
