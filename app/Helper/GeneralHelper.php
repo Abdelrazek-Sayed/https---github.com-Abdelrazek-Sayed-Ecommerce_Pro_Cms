@@ -25,7 +25,3 @@ function getParentIdOf($param)
 }
  
 
-function getMe()
-{
-    
-}
